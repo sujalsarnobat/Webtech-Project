@@ -20,9 +20,7 @@ TaxSarthi is a full-stack web application designed to simplify income tax calcul
 - **Authentication**: JSON Web Tokens (JWT)
 - **Deployment**: Render / Vercel / Netlify (adjust as per your hosting)
 
-## 📷 Screenshots
 
-> *(Insert screenshots of homepage, comparison results, and tax form submission)*
 
 ## 📦 Installation & Setup
 
